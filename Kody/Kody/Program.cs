@@ -11,6 +11,7 @@ namespace Kody
         static void Main(string[] args)
         {
 			console.writeline("Dupa world");
+			console.writeline("cycki");
         }
     }
 }
