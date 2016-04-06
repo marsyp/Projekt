@@ -12,6 +12,7 @@ namespace Kody
         {
 			console.writeline("Dupa world");
 			console.writeline("cycki");
+			//kod z dupy
         }
     }
 }
