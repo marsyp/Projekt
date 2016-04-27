@@ -10,7 +10,7 @@ namespace Kody
     {
         static void Main(string[] args)
         {
-			console.writeline("Test GITHub");
+			console.writeline("Dupa world");
         }
     }
 }

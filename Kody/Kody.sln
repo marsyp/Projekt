@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kody", "Kody\Kody.csproj", "{90666725-6CE6-4467-AAC1-56BFF6219640}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kody", "Kody\Kody.csproj", "{A7E5915A-F434-4BF6-9B25-70FA62A2A152}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{90666725-6CE6-4467-AAC1-56BFF6219640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90666725-6CE6-4467-AAC1-56BFF6219640}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90666725-6CE6-4467-AAC1-56BFF6219640}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90666725-6CE6-4467-AAC1-56BFF6219640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E5915A-F434-4BF6-9B25-70FA62A2A152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E5915A-F434-4BF6-9B25-70FA62A2A152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E5915A-F434-4BF6-9B25-70FA62A2A152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E5915A-F434-4BF6-9B25-70FA62A2A152}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
